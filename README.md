@@ -1,1 +1,1 @@
-# panda-commarce-recap
+# e-commarce-recap
